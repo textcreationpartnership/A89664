@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nevves, true newes, laudable newes, citie newes, court news, countrey newes: the world is mad, or it is a mad world my masters, especially now when in the antipodes these things are come to passe.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89664</idno>
+            <idno type="STC">Wing N1037</idno>
+            <idno type="STC">Thomason E144_3</idno>
+            <idno type="STC">ESTC R16377</idno>
+            <idno type="EEBO-CITATION">99860027</idno>
+            <idno type="PROQUEST">99860027</idno>
+            <idno type="VID">112132</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89664)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112132)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E144[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Nevves, true newes, laudable newes, citie newes, court news, countrey newes: the world is mad, or it is a mad world my masters, especially now when in the antipodes these things are come to passe.</title>
+               </titleStmt>
+               <extent>8 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Cowles, T. Bates, and T. Banks,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLII. [1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated t.p.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Geographical myths --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112132:1"/>
+            <!-- PDF PAGE 34 -->
+            <pb facs="tcp:112132:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 34 -->
+            <p>NEVVES, True Newes, Laudable Newes, Citie Newes, Court News, Countrey Newes: The World is mad, or it is a mad World my Maſters, eſpecially now when in the <hi>Antipodes</hi> theſe things are come to paſſe.</p>
+            <figure/>
+            <p>LONDON, Printed for <hi>F. Cowles, T. Bates,</hi> and <hi>T. Banks.</hi> MDCXLII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:112132:2"/>
+            <!-- PDF PAGE 35 -->
+            <head>NEWES, True Newes, Laudable Newes, Citie Newes, Court Newes, Countrey Newes: The World is mad, or it is a mad World my Maſters, eſpecially now when in the <hi>Antipodes</hi> theſe things are come to paſſe.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Here are many whoſe braines are bewictht with reading Hiſtories of great Travellers and their diſcoveries, that wonder at <hi>Mandeviles</hi> Relation of ſtrange wilderneſſes full of wonderfull wild beaſts, and of Countries where the Geeſe had heads, and Hens bore more wooll than ſheep, which whether they deſerve credit or no, is un<g ref="char:EOLhyphen"/>knowne to moſt underſtandings. But if you would have juſt and true cauſe of admiration, looke for it in this Re<g ref="char:EOLhyphen"/>lation of a moſt certaine and reall Countrey called the <hi>Antipodes,</hi> a Countrey furtheſt diſtant, foot to foot againſt our Region; the poople whereof in outward ſeature, language and religion, reſemble thoſe to whom they are ſuppoſite or underneath, as thoſe under Eng<g ref="char:EOLhyphen"/>land are like to the Engliſh, but in their manners, carriage, and con<g ref="char:EOLhyphen"/>dition of life extremely contrarie, for there the people rule the Ma<g ref="char:EOLhyphen"/>giſtrates, the women over-<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ule the men, Maids wooe the Batche<g ref="char:EOLhyphen"/>lours; and it is moſt probable, the wives lye uppermoſt, and at Goſſips feaſts the men doe all little-tattle duties; and the women inſtead of lying in, lye out, and let out their f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re-roomes, and lye backwards themſelves, for their husbands advantage; and their
+<pb n="3" facs="tcp:112132:2"/>
+               <!-- PDF PAGE 35 -->husbands lye abed in their roomes the whole month, while the wo<g ref="char:EOLhyphen"/>men, hunt, hawke, and take their pleaſures; and generally they carry themſelves in life and converſation quite contrary to the Eng<g ref="char:EOLhyphen"/>liſh faſhion.</p>
+            <p>And firſt, to deſcribe the manner of the Citie, the Governor there doth nothing but jeere the Delinquent, and is not guided by the Lawes, but his own pleaſure to give judgement: the Aldermen there want money and wit, all the Citie Poets are Puritans; the Gentle<g ref="char:EOLhyphen"/>men there entreat Sergeants to arreſt them, and the Sergeants will by no meanes doe it, if they have a little conniving money given them before they arreſt the party. The Maids there correct and command their Ladies and Miſtreſſes, and ſometimes lye with their Maſters, 'tis allowed. Young men are the Lords of miſ-rule, and the old men their fathers are put to Schoole againe, with a peece of bread and butter in their hands, like towne-borne children, whither they goe every day with ſatchels at their backs, and bottles in their hands. Citizens will give rich wares to Gallants to lye with their wives, and if they receive them, and afterwards doe not performe their wives buſineſſe, <hi>ipſo facto,</hi> the Citizens arreſt them and ſue them, and recover coſts and damages of them for not making them Cuckolds.</p>
+            <p>Lawyers there think themſelves much abuſed, if you offer them any fees, and unleſſe you keep your money, you cannot retaine a Lawyer there. Fether-men and Taylours will truſt out their commodities with much cheefulneſſe and willingneſſe, and afterward Captaines and roaring Blades are faine to have an action of treſpaſſe againſt the owners of the wares, for troubling them with importunate requeſts to pay them no money, but take longer day, a very eaſie requeſt: but yet their Captaines are ſometimes beat and kickt downe ſtaires, for offering to pay money.</p>
+            <p>The Beggars are the moſt abſolute Courtiers in the Antipodes, and againe in a contrary manner the Courtiers are the beſt Beggars: The Beggars alſo in the Antipodes will walk abroad to fee Lawyers, but the Lawyers will take no money, and ſo the Lawyers there prove Beggars, and the Beggars only thrive by going to Law: and as here Gallants follow Lawyers, and the Beggars them, ſo there the Law<g ref="char:EOLhyphen"/>yer is followed by the Beggar, and the Gentleman followes him: and moreover, all the money that the Lawyers receive of Beggars, of whom they only receive money, they ſend it all up to other Law<g ref="char:EOLhyphen"/>yers
+<pb n="4" facs="tcp:112132:3"/>
+               <!-- PDF PAGE 36 -->to ſtop their mouths, that curſe poore Clients that are put upon them <hi>in forma pauperis.</hi>
+            </p>
+            <p>Now theſe Beggars that doe thus get aforehand to follow ſuits of Law, do receive the greateſt benevolence of Vſurers, and who doe you think theſe Vſurers are there? even younger Brothers, Souldiers, Courtiers, and ſome grave and pious Church-men; thus there is a fine contrarietie in all things. As for example, a young Boy that hath no hope of beard, will keep an old ſervant whom hee cals Boy, and abuſe him at his pleaſure: and you cannot walk the ſtreets, but pre<g ref="char:EOLhyphen"/>ſently ſome hand ſome Gentlewoman will take you up, carry you to the Taverne, wooe you, nay and be ready to doe you, and afterward carry you home to her lodging, and for a nights activitie give you your mornings break-faſt with a peece or two of gold, and you will ſay thats prettie.</p>
+            <p>Moreover, in the Antipodes Merchants wives doe deale abroad beyond ſeas, while their husbands cuckold them at home. And cuc<g ref="char:EOLhyphen"/>kold-making is held there in great reputation, ſo that all your old men doe marry Girles, and old women Boyes, as if generation were onely to be maintained by Cuckold-making. Divines are there the greateſt wranglers in Law-ſuits, and you have not there a Gentleman in debt, though Citizens haunt them with cap in hand to take their wares on credit.</p>
+            <p>Beſides, there are in the Antipodes women Foncers, that will ven<g ref="char:EOLhyphen"/>ture with loſſe of bloud to play Prizes, while the men keep Schoole, and teach Needle-work; and the men are as arrant Scolds as the women are here, and are often duckt for ſcolding. And in the An<g ref="char:EOLhyphen"/>tipodes you ſhall ſee a ſick man give counſell to a Phyſitian, and a Puritan Tradeſ-man teach a great Traveller how to lye, a Schiſma<g ref="char:EOLhyphen"/>tick teach a Scrivener how to keep his eares, and an old Vſurer how to keep his bags of money out of a <hi>Buſh;</hi> a Pariſh Clerk there gives the rudiments of Military Diſcipline to a Generall: and it is a common thing for a Basket-maker, or a Felt-maker, to confute <hi>Bel<g ref="char:EOLhyphen"/>larmine</hi> in two words, ſaying; <hi>Bellarmine thou lyeſt.</hi> In the Anti<g ref="char:EOLhyphen"/>podes every Cooler and Button-maker will get into a Tub, and talk to the people of Divine matters, while Schollers walk up and downe in ſilence, or elſe are faine to cry Small coale.</p>
+            <p>As for Love matters, the women generally wooe the men, ſtroke them and kiſſe them, and will tempt them unto wanton dalli<g ref="char:EOLhyphen"/>ance, they make the men joynctures, and the husbands give their
+<pb n="5" facs="tcp:112132:3"/>
+               <!-- PDF PAGE 36 -->wives portions, and ſometimes the men weare petticots, and the wives weare the breeches; and they thinke it a diſgrace to many a maid that has not plaid the feat before hand and loſt her maiden-head, which is cal<g ref="char:EOLhyphen"/>led in the Antipodes Pye-corner Law. Rich men there marry beggars, and Beggars there ride a woing to old Ladies. They chuſe poore honeſt men to be common Counſell men, and the arranteſt drunkards are al<g ref="char:EOLhyphen"/>wayes made Conſtables, that they may the better reele away, comman<g ref="char:EOLhyphen"/>ding others to aid them, and young boyes are watchmen, Old ſtale Cham<g ref="char:EOLhyphen"/>bermaids that are like a broken wicker Bottle doe there become Citizens wives, and old widdowes in the Antipodes doe marry younger brothers, onely for the recreation of their old worne bodyes: You may drinke in the Antipodes all day long in a Taverne, and though you pay nothing you ſhall be very welcome, eſpecially if you have a whore with you, for then you ſhall be lighted home to your chamber.</p>
+            <p>And for Traylers, there be them in the Antipodes that make ſuits on purpoſe for gentlemen, which they take up, and never pay for then, it is the faſhion. The women there uſher the men and the men come behind, and carry up their traines, holding their wives Fan in their hands, and when they look back they put off their hats, and ſtand bare like ſerving<g ref="char:EOLhyphen"/>men. The Prentiſes here domineere over their Maſters, ſcorning to carry water, or ſweep their doores, or be out of the faſhion, and while Maſters ſtay at home in their ſhops, they walke abroad like Free-men, and take their pleaſure with their wenches. It is held a very comely ſight in the Antipodes to ſee a man in bad apparrell, and a cloake lin'd with pluſh ſhall not be reſpected ſo much as a beggar that hath money. Carmen in the City of the Antipodes doe not load their horſes, but come whiſtling after the Cart; and their horſes have almoſt as much underſtanding as their Maſters. The Mercers and Drapers will have their wives ſit alwayes in their Sellers, but never in their Shops; and he that proves a Banque<g ref="char:EOLhyphen"/>rupt, or moſt refractory; is made the ſooneſt Warden of their Company. Your Cooks goe there in white ſattin doublets, very neat and ſpruce, and your Barbers are very ſlovens, and as greaſie as any Sculliions. Whores there are in great eſteeme, and ride in Chariots, and goe there as demure<g ref="char:EOLhyphen"/>ly dreſt as any Nunnes, and are called holy Siſters. Your gallants there are mighty preciſe, and will run away from a whore, while a ſort of peo<g ref="char:EOLhyphen"/>ple called Round-heads are your onely private Gallants for keeping of wenches. Your Merchants in the Antipodes live in great eaſe and wealth, whiles their wives venture their commodities abroad, and trade in all countries. There is no ſtriving in the Antipodes either to bee Clarks or
+<pb n="6" facs="tcp:112132:4"/>
+               <!-- PDF PAGE 37 -->Churchwardens for thoſe places are alwayes conferr'd upon moſt unde<g ref="char:EOLhyphen"/>ſerving fellowes: The Clarkes can hardly read, and thoſe Church-war<g ref="char:EOLhyphen"/>dens are onely thought worſhipfull, that doe couſen the poore, and after ſell the bells, and then breake in policy; for breaking in the Antipodes is held one of the beſt trades, in theſe times; and to ſhut up ſhops in the morning, and compound for a noble in the pound, before night: this is held deep policie, and they can bring Scripture for it too: and to con<g ref="char:EOLhyphen"/>clude the City cuſtomes, the Hangman in the City of the Antipodes is accounted the chiefe Phyſitian, becauſe he cures all the vicious humors and knaveries of the <hi>Common-wealth,</hi> and can make a Deputy of any man.</p>
+            <p>Now for the Court, the faſhions there are alſo retrograde, and contrary to other countries: there is a very miſerable houſe kept there, ſo that <hi>Ci<g ref="char:EOLhyphen"/>tizens</hi> comming to <hi>Court,</hi> and finding not ſatisfaction according to their owne ſtomacks, they depart thence very much diſcontended. In the Court of Antipodes, you ſhall ſee water-men, and country fellowes com<g ref="char:EOLhyphen"/>plementing together with great ceremony, and conferring of paſſages of State and <hi>Court-newes,</hi> whiles the <hi>Courtiers</hi> play at puſh-pin, nine-pins, and Pidgeon-holes; and ſometimes about trifling matters they goe to<g ref="char:EOLhyphen"/>gether by the eares, and the proudeſt that is doth ſometimes get a fall. In the <hi>Court</hi> of Antipodes you cannot have an office for any money, un<g ref="char:EOLhyphen"/>leſſe you be of the Arminian garbe; ſaying, ye ſhall prey, and pray, yea cringing and bowing to the Altar: but if you are baſhfull, and ſtand be<g ref="char:EOLhyphen"/>hind a doore, whiſtling <hi>Fortune my foe,</hi> you ſhall preſently bee put in ſome great place. Great Ladyes doe never come to the <hi>Court</hi> of An<g ref="char:EOLhyphen"/>tipodes, but milke-maids in white waſcoats and red petticoats, who know how to complement and ſpeak French, and are carryed about in <hi>Coaches,</hi> and <hi>Sedans</hi> by pattent. The <hi>Court</hi> foole in the Antipodes goes in the habit of a <hi>Cardinall</hi> or <hi>Biſhop</hi> and will diſcourſe of all ſerious matters, and pleaſes the <hi>Court</hi> with a formall ignorance. The Biſhops there bee all honeſt, preaching Biſhops, not ſtudying <hi>Court</hi> pollicy, but preferring ſollid divinitie: there is not one of them ſuſpected to have a Pope in his belly, and an Altar in his chamber: All the <hi>Chronicles</hi> of the Antipo<g ref="char:EOLhyphen"/>des, that ever were heard of, or read in, that ever any Biſhops for their goodneſſe were committed to ſafe cuſtody; here a biſhop once payd the foole ſoundly; now the foole laughes in his ſleeve, and askes, <hi>Who is the foole now?</hi> There is nothing but faſting dayes in the Court of An<g ref="char:EOLhyphen"/>tipodes, ſo that all the Courtiers look very leane, and are nothing given to the fleſh, but onely of one ſide. The black guard are here all white men,
+<pb n="7" facs="tcp:112132:4"/>
+               <!-- PDF PAGE 37 -->and are never drunke but on a Coronation day, and at other times they ſerve for Landreſſes, while the Landreſſes ſhew their skill in ſcouring the Court ſpits, and dripping pans. If you are a ſtranger, the Courtiers will carry you in to dinner, although you have no friend at Court but of all things they cannot endure Citizens wives in the Court of Antipo<g ref="char:EOLhyphen"/>des. Foot-men and horſe-keepers doe there hare whores extreamely, ſo that before they will lye with a whore, they will rather lye in the ſtable amongſt their horſes Now the King of this Countrey of Antipodes is a Prince ſo full of vertue, that he is beloved and admired of moſt of his ſubjects; he is a patterne to his ſervants, and an example to all Princes whatſoever: for he alwayes keeps himſelfe in an excellent temper, and no one vanity raignes in him: and whereas before hee was attended with large multitudes, he now deſires no company; if any one offend him, hee is ſo patient and gracious that he will not offend any of his Subjects, but whereas he ſhould pardon them, he deſires they ſhould need no pardon; he goes and meanes as plaine as any common man, and takes his pro<g ref="char:EOLhyphen"/>greſſe alwayes in the winter: evill people dare not come neare him; or if they doe, he gives them no countenance: and when in his travailes he ſees great company of people gathered together, he cryes God bleſſe my loving ſubjects, before they can ſay, God ſave the King. In Antipo<g ref="char:EOLhyphen"/>des the King ſeldome hunts, but the people hunt all ſort of beaſts, but e<g ref="char:EOLhyphen"/>ſpecially the Foxe: Any of his ſubjects dare doe more than he doth and not be queſtioned neither.</p>
+            <p>The King of Antipodes hath no players, but every one of his ſubjects ſtraines to act a part that may pleaſe him: Some play Citizens, ſome countrey men, ſome courtiers, and ſome ſouldiers, but all in concluſion give the King great content. Hee never uſes any guard about him, but a certaine company of young men, who are called the guard of love, and when he rides abroad, theſe ſtay at home, and other guards meet him by the way.</p>
+            <p>And as for beggars they will preſume in the Antipodes to come into the Kings preſence, while Gentlemen are thruſt out, untill the King doth entreat his Courtiers and ſubjects to bee obedient. In the Antipo<g ref="char:EOLhyphen"/>des the King is the pooreſt, and cares no more for pride and ambitious honour, than if he were no King, and lives under no vanity, and guilty of no crime, there being more pride a great deale in his common ſubjects, both in their owne and wives apparrell.</p>
+            <p>Religion that was heretofore contrary unto true Divinity, ſhall bee now Regulated and an ended, and made conformable to Divine. Scrip<g ref="char:EOLhyphen"/>tures;
+<pb n="6" facs="tcp:112132:5"/>
+               <!-- PDF PAGE 38 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:112132:5"/>
+               <!-- PDF PAGE 38 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:112132:6"/>
+               <!-- PDF PAGE 39 -->and whereas before vice, and folly, and bribery bore ſway through many Arbitrary Courts of the whole Antipodes, it ſhall be ſo no more; but godlineſſe ſhall be planted in every corner thereof: ſo that this con<g ref="char:EOLhyphen"/>fuſed Countrey of Antipodes where Biſhops were, and where Di<g ref="char:EOLhyphen"/>vines were Vſurers, Gentlemen were Beggars, Prentiſes were Maſters, Knaves got Offices, women, madmen, Magiſtrates did injuſtice, and the common people and Brewers <hi>Clarks</hi> would needs be Prieſts, and main<g ref="char:EOLhyphen"/>taine that there is not one honeſt man now living there, that was made a Miniſter by a Biſhop which is ſurviving, and ſo <hi>all things were carried in a contrary manner to law, equity, and reaſon.</hi>
+            </p>
+            <p>Now the King of the Antipodes hath given <hi>Order,</hi> that this <hi>Countrey</hi> ſhall in all poynts be reduced to the forme and faſhion of this <hi>upper Eng<g ref="char:EOLhyphen"/>land:</hi> So that now one <hi>Serjeant</hi> ſhall affright halfe a dozen <hi>Gentlemen,</hi> as they doe here in <hi>England;</hi> men ſhall rule their wives if they can, as they doe here; beggars ſhall not goe to <hi>Law,</hi> nor poore men taken into an Hoſpitall and be turned out before they be well, that Lawyers ſhall make a thouſand beggars, as they doe here in <hi>England;</hi> and in like manner gentlemen ſhall not runne from whores, but run to them as for<g ref="char:EOLhyphen"/>merly; ſo that this <hi>Country</hi> (not ſo before) in faſhions and manners ſhall now be made by <hi>Reformation</hi> as like as may be to old <hi>England;</hi> that ſo there may be ſoundneſſe of Doctrine, and integrity of manners in the <hi>Clergie,</hi> the pure profeſſion of the <hi>Proteſtant Religion</hi> in the common people, valour, vertue, and magnanimity in the Gentry, Iuſtice and up<g ref="char:EOLhyphen"/>rightneſſe of dealing in the Magiſtracy; unity and conformity in opinion, and matters of Religion, that ſo the Antipodes may flouriſh, and be hap<g ref="char:EOLhyphen"/>py as England is, under the moſt pious and gracious Reigne of our Sove<g ref="char:EOLhyphen"/>raigne Lord and King.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:112132:6"/>
+            <!-- PDF PAGE 39 -->
+         </div>
+      </body>
+   </text>
+</TEI>
